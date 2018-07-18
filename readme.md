@@ -4,7 +4,7 @@ This repository introduces two different computational models of surprise in the
 
 <p align="center"><img alt="surprising adjucent words" src="Figures/surprising-adjucent-pairs.png" width="500"> </p>
 
-*Examples of conceptual shifts results.*
+*Examples of surprising adjacent pairs.*
 
 ## Dataset
 
