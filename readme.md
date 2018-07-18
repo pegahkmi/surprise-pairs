@@ -2,7 +2,7 @@
 
 This repository introduces two different computational models of surprise in the domain of books. Given the title of the book, the goal is to identify the most surprising pair that appears in the title using corpus-trained statistical language models.  
 
-<p align="center"><img alt="surprising adjucent words" src="Figures/surprising-adjucent-pairs.png" width="700"> </p>
+<p align="center"><img alt="surprising adjucent words" src="Figures/surprising-adjucent-pairs.png" width="500"> </p>
 
 *Examples of conceptual shifts results.*
 
@@ -18,7 +18,7 @@ We extract word2vec representation for each word in the book title using a pre-t
 
 We group words into different clusters using a k-means algorithm. We compute the conditional probability of labeled pairs, that is, how likely the word labeled as cluster “a” is followed by another word labeled as cluster “b”. The two words with the lowest conditional probability are considered as surprising pairs.   
 
-<p align="center"><img alt="word embedding with 300 words" src="Figures/word-embbedding.png" width="700"> </p>
+<p align="center"><img alt="word embedding with 300 words" src="Figures/word-embbedding.png" width="800"> </p>
 
 *Visualize word embedding for 500 word samples in 2D scatter plot using t-SNE.*
 
@@ -32,7 +32,7 @@ To see the results for adjucent pairs, use:
 
 Table below shows the results for selected non-adjucent surprising pairs:
 
-<p align="center"><img alt="surprising non-adjucent words" src="Figures/surprising-non-adjucent-pairs.png" width="700"> </p>
+<p align="center"><img alt="surprising non-adjucent words" src="Figures/surprising-non-adjucent-pairs.png" width="500"> </p>
 
 
 ## Surprise based on bigrams
