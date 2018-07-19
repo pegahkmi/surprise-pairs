@@ -27,7 +27,7 @@ To see the results for adjucent pairs, use:
 
     python features_adj.py
 
-To see the results for adjucent pairs, use:
+To see the results for non-adjucent pairs, use:
 
     python features_non_adj.py
 
