@@ -1,4 +1,5 @@
-## Conceptual shifts model
+## Computational models of surprise in the book domain 
+
 
 This repository introduces two different computational models of surprise in the domain of books. Given the title of the book, the goal is to identify the most surprising pair that appears in the title using corpus-trained statistical language models.  
 
