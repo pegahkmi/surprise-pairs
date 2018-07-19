@@ -47,4 +47,5 @@ To observe the surprise pairs based on bigrams for the first 100 titles, use:
 
 Table below shows the results for selected book-titles:
 
+<p align="center"><img alt="surprising pairs based on bigrams" src="Figures/surprise-bigrams.png" width="500"> </p>
 
